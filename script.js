@@ -34,7 +34,7 @@ $(document).ready(function () {
       let hourIDDigits = hourID.substring(5)
       const newMessage = $(this).siblings('.description').val();
       localStorage.setItem("hour-" + hourIDDigits, newMessage);
-      $(this).siblings('.description').val(blockInput);
+      $(this).siblings('.description').val(newMessage);
    })
 
    // TODO: Add code to apply the past, present, or future class to each time
