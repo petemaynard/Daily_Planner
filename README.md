@@ -21,9 +21,9 @@ Contains\
 ![Picture of planner](./screenshot.gif)
 
 
-## Deployed at https://note-taker-pjm-3740623ce2ba.herokuapp.com/notes
+## Deployed at https://petemaynard.github.io/Daily_Planner/
 
-## Repository at https://github.com/petemaynard/Note_Taker
+## Repository at https://github.com/petemaynard/Daily_Planner
 
 ## Credits
 
